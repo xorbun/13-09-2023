@@ -25,8 +25,6 @@ const deletememo= function(a)
    {
         const clickedbut=a.target;
         console.log(clickedbut.parentElement);
-        const selector=document.querySelector("rememberto");
-        
         console.log(selector);
         const finish=clickedbut.parentElement.remove(); 
         
