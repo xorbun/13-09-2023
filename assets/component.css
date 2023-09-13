@@ -1,0 +1,42 @@
+
+body
+{
+    background-image: url(/assets/yellow-paper-texture.jpg);
+    
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h1
+{
+    color: brown;
+}
+form
+{
+    display: inline;
+    
+}
+
+main form input
+{
+    ;
+    margin-left: 10em;
+    margin-top: 2em;
+    font-size: large;
+    border-radius: 10px;
+    width: 25em;
+}
+main form button
+{
+    border-radius: 10px;
+    background-color:rgba(161, 66, 66, 0.644);
+}
+.RememberTo
+{
+   
+    text-align: center;
+    margin-bottom: 5em;
+    width: auto;
+    
+
+}
