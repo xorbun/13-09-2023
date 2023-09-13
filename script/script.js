@@ -25,7 +25,7 @@ const deletememo= function(a)
    {
         const clickedbut=a.target;
         console.log(clickedbut.parentElement);
-        console.log(selector);
+        
         const finish=clickedbut.parentElement.remove(); 
         
    }
